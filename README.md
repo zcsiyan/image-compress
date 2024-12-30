@@ -22,4 +22,4 @@
 
 ## 在线使用
 
-访问：https://siyan.github.io/image-compress-tool/ 
+访问：[https://siyan.github.io/image-compress-tool/ ](https://zcsiyan.github.io/image-compress/)
